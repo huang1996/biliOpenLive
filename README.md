@@ -1,4 +1,4 @@
-#biliOpenLive
+# biliOpenLive
 
 - 该项目为代码练习项目，按照B站 [bilibili开放平台](https://open-live.bilibili.com/) 的文档实现的一个监听直播间实时弹幕的demo
 ### 如何使用
